@@ -150,61 +150,75 @@ Provides detailed analysis for a selected category:
 
 # 🖥️ Dashboard Preview
 
-## Executive Overview
+## 1️⃣ Executive Overview
 
 <p align="center">
-  <img src="images/executive_overview.png" width="48%">
-</p>
-
-## Sales Trends
-
-<p align="center">
-  <img src="images/sales_trends.png" width="48%">
-</p>
-
-## Category & Products
-
-<p align="center">
-  <img src="images/category_products.png" width="48%">
-</p>
-
-## Customer Geographics
-
-<p align="center">
-  <img src="images/customer_geographics.png" width="48%">
-</p>
-
-## Delivery & Logistics
-
-<p align="center">
-  <img src="images/delivery_logistics.png" width="48%">
-</p>
-
-## Reviews
-
-<p align="center">
-  <img src="images/reviews.png" width="48%">
-</p>
-
-## Payments
-
-<p align="center">
-  <img src="images/payments.png" width="48%">
-</p>
-
-## Sellers
-
-<p align="center">
-  <img src="images/sellers.png" width="48%">
-</p>
-
-## Drillthrough
-
-<p align="center">
-  <img src="images/drillthrough.png" width="48%">
+  <img src="images/Dashboard_E-Commerce_page-0001.jpg" width="90%">
 </p>
 
 ---
+
+## 2️⃣ Sales Trends
+
+<p align="center">
+  <img src="images/Dashboard_E-Commerce_page-0002.jpg" width="90%">
+</p>
+
+---
+
+## 3️⃣ Category & Products
+
+<p align="center">
+  <img src="images/Dashboard_E-Commerce_page-0003.jpg" width="90%">
+</p>
+
+---
+
+## 4️⃣ Customer Geographics
+
+<p align="center">
+  <img src="images/Dashboard_E-Commerce_page-0004.jpg" width="90%">
+</p>
+
+---
+
+## 5️⃣ Delivery & Logistics
+
+<p align="center">
+  <img src="images/Dashboard_E-Commerce_page-0005.jpg" width="90%">
+</p>
+
+---
+
+## 6️⃣ Reviews
+
+<p align="center">
+  <img src="images/Dashboard_E-Commerce_page-0006.jpg" width="90%">
+</p>
+
+---
+
+## 7️⃣ Payments
+
+<p align="center">
+  <img src="images/Dashboard_E-Commerce_page-0007.jpg" width="90%">
+</p>
+
+---
+
+## 8️⃣ Sellers
+
+<p align="center">
+  <img src="images/Dashboard_E-Commerce_page-0008.jpg" width="90%">
+</p>
+
+---
+
+## 9️⃣ Drillthrough
+
+<p align="center">
+  <img src="images/Dashboard_E-Commerce_page-0009.jpg" width="90%">
+</p>
 
 # 📈 Key Performance Indicators
 
