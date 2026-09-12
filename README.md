@@ -309,3 +309,32 @@ data/original/
 ├── olist_order_items_dataset
 ├── olist_geolocation_dataset
 └── olist_customers_dataset
+Olist-Ecommerce-Analytics/
+│
+├── data/
+│   ├── original/
+│   └── cleaned/
+│
+├── powerbi/
+│   └── Dashboard_E-Commerce.pbix
+│
+├── sql/
+│
+├── documentation/
+│   ├── Data_Dictionary.xlsx
+│   ├── Olist_DAX_Measures_Professional_Report_Final.pdf
+│   └── Project Report.pdf
+│
+├── dashboard/
+│   └── Dashboard_E-Commerce.pdf
+│
+images/
+    ├── Dashboard_E-Commerce_page-0001.jpg
+    ├── Dashboard_E-Commerce_page-0002.jpg
+    ├── Dashboard_E-Commerce_page-0003.jpg
+    ├── Dashboard_E-Commerce_page-0004.jpg
+    ├── Dashboard_E-Commerce_page-0005.jpg
+    ├── Dashboard_E-Commerce_page-0006.jpg
+    ├── Dashboard_E-Commerce_page-0007.jpg
+    ├── Dashboard_E-Commerce_page-0008.jpg
+    └── Dashboard_E-Commerce_page-0009.jpg
